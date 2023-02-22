@@ -4,6 +4,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const index_1 = __importDefault(require("./index"));
-index_1.default.listen(8000, () => {
-    console.log("server connected successfully");
+const genenral_1 = require("./helpers/genenral");
+const logger_1 = __importDefault(require("./helpers/logger"));
+index_1.default.listen((0, genenral_1.ENV)("PORT"), () => {
+    logger_1.default.info(`server connected successfully to port ${(0, genenral_1.ENV)("PORT")}`);
 });
