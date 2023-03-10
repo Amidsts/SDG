@@ -1,7 +1,7 @@
 import { Document, model, Schema } from "mongoose";
 import { genSalt, hash } from "bcrypt";
 
-interface IUser extends Document {
+export interface IUser extends Document {
     firstname: string,
     lastname: string,
     userType: "student" | "landlord",
@@ -21,7 +21,7 @@ const userSchema = new Schema<IUser>({
     },
     userType: {
         type: String,
-        required: true
+        required: true,
     },
     email: {
         type: String,

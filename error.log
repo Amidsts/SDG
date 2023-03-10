@@ -1,5 +1,7 @@
-23-02-22 19-40-41 [32minfo[39m: server connected successfully to port 8000
-23Y-02-23 14-56-15 [32minfo[39m: server connected successfully to port 7000
-23Y-03-09 12-28-33 [32minfo[39m: server connected successfully to port 7000
-23Y-03-09 12-29-41 [32minfo[39m: server connected successfullsy to port 7000
-23Y-03-09 12-29-47 [32minfo[39m: server connected successfully to port 7000
+23Y-03-10 11-43-46 [32minfo[39m: server connected successfully to port 7000
+23Y-03-10 11-43-50 [32minfo[39m: db connected
+23Y-03-10 11-44-27 [31merror[39m: User validation failed: userType: Path `userType` is required.
+23Y-03-10 11-56-50 [31merror[39m: User validation failed: userType: Path `userType` is required.
+23Y-03-10 11-57-02 [31merror[39m: E11000 duplicate key error collection: test.users index: phone_1 dup key: { phone: null }
+23Y-03-10 11-58-41 [31merror[39m: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "felixadegboyega@gmail.com" }
+23Y-03-10 11-58-54 [31merror[39m: E11000 duplicate key error collection: test.users index: phone_1 dup key: { phone: "08035292607" }

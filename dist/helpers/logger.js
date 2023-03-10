@@ -21,7 +21,7 @@ const transport = {
 // }
 const logger = winston_1.default.createLogger({
     level: "info",
-    format: winston_1.default.format.combine(winston_1.default.format.colorize(), winston_1.default.format.timestamp({ format: 'YY-MM-DD HH-mm-ss' }), winston_1.default.format.errors(), logFormat),
+    format: winston_1.default.format.combine(winston_1.default.format.colorize(), winston_1.default.format.timestamp({ format: 'YYY-MM-DD HH-mm-ss' }), winston_1.default.format.errors(), logFormat),
     transports: [
         transport.file,
         transport.console
