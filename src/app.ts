@@ -7,7 +7,7 @@ mongoose.set('strictQuery', true);
 mongoose.connect(ENV("URI")).then(res => {
     logger.info(`db connected`);
 }).catch(err => {
-    logger.error(`can't connect to db`)
+    logger.error(`Can't connect to db`)
 })
 
 const PORT = ENV("PORT") || 7000

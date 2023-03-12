@@ -4,7 +4,7 @@ import { genSalt, hash } from "bcrypt";
 export interface IUser extends Document {
     firstname: string,
     lastname: string,
-    userType: "student" | "landlord",
+    userType: "tenant" | "landlord",
     phone: string,
     email: string,
     password: string

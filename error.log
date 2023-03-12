@@ -5,3 +5,57 @@
 23Y-03-10 11-57-02 [31merror[39m: E11000 duplicate key error collection: test.users index: phone_1 dup key: { phone: null }
 23Y-03-10 11-58-41 [31merror[39m: E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "felixadegboyega@gmail.com" }
 23Y-03-10 11-58-54 [31merror[39m: E11000 duplicate key error collection: test.users index: phone_1 dup key: { phone: "08035292607" }
+23Y-03-10 12-04-24 [32minfo[39m: server connected successfully to port 7000
+23Y-03-10 12-04-29 [32minfo[39m: db connected
+23Y-03-10 12-04-33 [32minfo[39m: server connected successfully to port 7000
+23Y-03-10 12-04-38 [32minfo[39m: db connected
+23Y-03-11 23-16-22 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-16-53 [31merror[39m: can't connect to db
+23Y-03-11 23-17-03 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-17-19 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-17-22 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-17-46 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-17-51 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-18-21 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-18-51 [31merror[39m: can't connect to db
+23Y-03-11 23-20-34 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-21-08 [31merror[39m: can't connect to db
+23Y-03-11 23-23-34 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-23-43 [31merror[39m: can't connect to db
+23Y-03-11 23-23-52 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-24-38 [31merror[39m: can't connect to db
+23Y-03-11 23-24-49 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-25-21 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-26-00 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-26-38 [31merror[39m: can't connect to db
+23Y-03-11 23-28-24 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-28-32 [31merror[39m: can't connect to db
+23Y-03-11 23-35-50 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-36-06 [31merror[39m: can't connect to db
+23Y-03-11 23-36-21 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-37-36 [31merror[39m: Can't connect to db
+23Y-03-11 23-43-46 [32minfo[39m: server connected successfully to port 7000
+23Y-03-11 23-45-01 [31merror[39m: Can't connect to db
+23Y-03-12 00-04-35 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 00-05-05 [31merror[39m: Can't connect to db
+23Y-03-12 00-45-03 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 00-45-34 [31merror[39m: Can't connect to db
+23Y-03-12 01-33-09 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-33-34 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-33-37 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-34-07 [31merror[39m: Can't connect to db
+23Y-03-12 01-34-46 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-36-09 [32minfo[39m: db connected
+23Y-03-12 01-42-14 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-42-36 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-42-46 [32minfo[39m: db connected
+23Y-03-12 01-43-16 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-43-21 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-43-46 [32minfo[39m: db connected
+23Y-03-12 01-48-36 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-48-46 [32minfo[39m: db connected
+23Y-03-12 01-50-05 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-50-09 [32minfo[39m: db connected
+23Y-03-12 01-56-02 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-57-52 [32minfo[39m: server connected successfully to port 7000
+23Y-03-12 01-58-02 [32minfo[39m: db connected
