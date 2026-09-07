@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "rm -rf ./dist && rm -rf error.log && tsc",
+    "build": "node api.js && rm -rf ./dist && rm -rf error.log && tsc",
     "start:dev": "ts-node-dev src/app.ts",
-    "start": "npm run build && node dist/app.js"
+    "start": "node api.js && npm run build && node dist/app.js"
   },
   "keywords": [],
   "author": "",
